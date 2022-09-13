@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/auth/request-message": "pages/api/auth/request-message.js",
+  "/": "pages/index.html",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/_error": "pages/_error.js",
+  "/balances/erc20": "pages/balances/erc20.js",
+  "/transactions": "pages/transactions.js",
+  "/transfers/erc20": "pages/transfers/erc20.js",
+  "/balances/nft": "pages/balances/nft.js",
+  "/transfers/nft": "pages/transfers/nft.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
